@@ -1,0 +1,29 @@
+.content6{
+    width:100%;
+    height:400px;
+    background-color: lightgray;
+   text-align: center;
+   
+   
+}
+.content6 h2{
+    text-align: center;
+    font-size: 40px;
+    transform: translateY(30px);
+}
+.pc img{
+    width:180px;
+    height:180px;
+    border-radius: 90px;
+    background-color: #7C9CD0;
+    transform: translateY(80px);  
+}
+.pc{
+   display: flex;
+   justify-content:space-evenly;
+   text-align: center;
+}
+.content6 p{
+    transform: translateY(120px);
+    font-size: 30px;
+}

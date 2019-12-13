@@ -1,0 +1,27 @@
+.content7{
+    width:100%;
+    height:300px;
+    background-color: #888787;
+    text-align: center;
+   
+    
+}
+ .g{
+   font-size: 32px;
+   transform: translateY(50px);
+   color:skyblue;
+   width:60px;
+   height:60px;
+   border-radius: 50px;
+   border:2px solid white;
+ }
+.content7 p{
+    transform: translateY(80px);
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+.g{
+    margin-left:auto;
+   margin-right:auto; 
+}
